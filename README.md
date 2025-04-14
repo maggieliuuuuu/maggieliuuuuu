@@ -1,16 +1,4 @@
-# Hi this is Maggie🍏
-
-## 基本資料
-
-- 姓名：劉蘊慈 (資訊系二年級)
-- 興趣：看漫才、聽音樂🎶
-- 語言：**C++**, Python, Java
-
-## 技能
-
-- 目前無，學習中!📘
-
-[歡迎到我的 GitHub 看更多作品](https://github.com/maggieliuuuuu)
+Hi this is Maggie🍏
 
 <!--
 **maggieliuuuuu/maggieliuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
